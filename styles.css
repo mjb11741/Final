@@ -1,0 +1,47 @@
+@charset "UTF-8";
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Mundial Light", Arial, "Times New Roman", serif;
+    color: #FFFFFF;
+    font-weight: lighter;
+    border-width: thin;
+    border-color: #000000;
+    background-image: url(Images/AdobeStock_141162484.jpeg);
+}
+h1 {
+    text-align: center;
+Font-Family: 'Playfair Display', Serif;
+Font-Size: 62px;}
+
+h2 {
+    text-align: center;
+Font-Family: 'Playfair Display', Serif;
+Font-Size: 32px;
+font-style: italic;}
+p{
+	Font-Family: 'Oswald', Sans-Serif;
+Font-Size: 18px;
+}
+section {
+    background-color: #7A7A7A;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+a {
+    background-color: #FFFFFF;
+    padding-top: -1px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 3px;
+    float: right;
+	Font-Family: 'Oswald', Sans-Serif;
+Font-Size: 18px;
+}
+header {
+    text-align: center;
+}
